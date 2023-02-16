@@ -1,6 +1,4 @@
 *** Settings ***
-Documentation    Robot Framework Sem Complicação
-Library          SeleniumLibrary    timeout=500
 Resource         ../resources/base.robot
 
 *** Test Cases ***
